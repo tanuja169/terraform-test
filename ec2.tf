@@ -1,3 +1,4 @@
+## Made ec2 changes and review and merge the code
 ## get the latest AMI
 data "aws_ami" "ubuntu" {
   most_recent = true
